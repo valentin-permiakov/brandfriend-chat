@@ -1,6 +1,5 @@
 import { Layout, Grid } from 'antd';
 import { useRef, useState } from 'react';
-import './App.css';
 import data from './chat.json';
 import ChatContainer from './components/ChatContainer/ChatContainer';
 import ChatList from './components/ChatList/ChatList';
